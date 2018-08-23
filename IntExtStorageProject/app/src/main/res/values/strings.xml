@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntExtStorageProject</string>
+    <string name="text">Text</string>
+    <string name="name">Name</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+</resources>
